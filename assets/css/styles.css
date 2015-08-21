@@ -86,7 +86,7 @@ nav {
 footer {
 	color: #778F9B;
 	background-color: #E0E5E8;
-	padding: 11.4em 1em 1.5em 1.5em;
+	padding: 11.3em 1em 1.5em 1.5em;
 }
 
 section {
@@ -194,4 +194,14 @@ input {
 	height: 18px;
 	display: inline-block;
 	margin: 0 0 -4px 0;
+}
+
+.eyeball {
+	background: url(../img/eyeball.svg) top right;
+	background-size: 24px 18px;
+	width: 24px;
+	height: 18px;
+	position: absolute;
+	right: 0.6em;
+	top: 0.9em
 }
